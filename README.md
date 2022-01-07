@@ -1,7 +1,9 @@
 ### Hi there, I'm Jules
 
-- 20, PCB beginner from France 🇫🇷
+- 20, PCB designer from France 🇫🇷
 - 🛠 Electronics 
+- GameFi
+- Web designer
 - 💻 Computer Science student 
 - ECE Paris, France 
 
