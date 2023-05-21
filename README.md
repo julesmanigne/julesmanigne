@@ -1,4 +1,4 @@
-### Hi there, I'm Jules
+## Hi, I'm Jules 👋
 
 - 22, DPM from France 🇫🇷
 - Data 
